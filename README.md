@@ -73,7 +73,7 @@
 
 Ваш граф комитов должен выглядеть аналогично скриншоту:
 
-![image](https://github.com/user-attachments/assets/f5bfe3d8-d483-455c-bb61-c51af7221f28)
+![image](https://github.com/user-attachments/assets/9f2cc4e1-8548-421b-b992-b197fccd26ed)
 
 
 
