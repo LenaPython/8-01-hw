@@ -42,7 +42,9 @@
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
 
-### Ответ: https://github.com/LenaPython/DevOps/commit/9338da07ee36f3f58c12bf7a7cddb23f786f7c9a
+### Ответ:
+
+https://github.com/LenaPython/DevOps/commit/9338da07ee36f3f58c12bf7a7cddb23f786f7c9a
 
 
 ---
@@ -58,7 +60,9 @@
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
 
-### Ответ: https://github.com/LenaPython/DevOps/commit/b7f1e6c2a39d01293add7b34e9c2ad8a1ceefb98
+### Ответ: 
+
+https://github.com/LenaPython/DevOps/commit/b7f1e6c2a39d01293add7b34e9c2ad8a1ceefb98
 
 
 ---
@@ -82,5 +86,7 @@
 ![image](https://github.com/user-attachments/assets/9f2cc4e1-8548-421b-b992-b197fccd26ed)
 
 
-### Ответ: https://github.com/LenaPython/DevOps/network
+### Ответ: 
+
+https://github.com/LenaPython/DevOps/network
 
